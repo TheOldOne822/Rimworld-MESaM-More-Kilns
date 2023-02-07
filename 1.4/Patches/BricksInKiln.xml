@@ -1,0 +1,12 @@
+<Patch>
+
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ItemProcessor.ItemAcceptedDef [defName = "EM_PorcelainOvenFirstItem"]/items</xpath>
+        <value>
+			<li>EM_ClayBricks_Fresh</li>
+        </value>
+    </Operation>
+
+
+</Patch>

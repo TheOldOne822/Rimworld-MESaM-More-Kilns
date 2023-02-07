@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<!-- Kiln -->
+
+	<ItemProcessor.ItemAcceptedDef>
+		<defName>EM_PorcelainOvenElFirstItem</defName>
+		<building>EM_PorcelainOvenEl</building>
+		<slot>1</slot>
+		<items>			
+			<li>EM_Clay</li>			
+			<li>EM_ClayBricks_Fresh</li>			
+		</items>							
+	</ItemProcessor.ItemAcceptedDef>
+
+	<ItemProcessor.ItemAcceptedDef>
+		<defName>EM_PorcelainOvenChemFirstItem</defName>
+		<building>EM_PorcelainOvenChem</building>
+		<slot>1</slot>
+		<items>			
+			<li>EM_Clay</li>			
+			<li>EM_ClayBricks_Fresh</li>			
+		</items>							
+	</ItemProcessor.ItemAcceptedDef>
+
+</Defs>

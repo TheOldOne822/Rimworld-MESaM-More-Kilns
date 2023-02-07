@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>More Kilns</name>
+	<author>TheOldOne</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	
+	<packageId>TheOldOne.EMSM.Kilns</packageId>
+	<loadAfter>
+	  <li>Expanded Materials - Stones and Mortars</li>
+      <li>Vanilla Helixien Gas Expanded</li>
+    </loadAfter>
+	
+	<description>Adds alternative powered kilns for Expanded Materials - Stones and Mortars
+	</description>
+    <modDependencies>
+        <li>
+            <packageId>Argon.ExpandedMaterials.Stones</packageId>
+            <displayName>Expanded Materials - Stones and Mortars</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2859334065</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>

@@ -1,0 +1,39 @@
+<Defs>
+
+
+	<!-- Kiln -->
+
+	<ItemProcessor.CombinationDef>
+		<defName>EM_ClaysIntoPorcelainGas</defName>
+		<building>EM_PorcelainOvenGas</building>
+		<isCategoryRecipe>false</isCategoryRecipe>
+		<items>
+			<li>EM_Clay</li>
+        </items>	
+		<amount>
+			<li>50</li>
+		</amount>
+		<result>EM_Porcelain</result>	
+		<yield>30</yield>
+		<useQualityIncreasing>false</useQualityIncreasing>
+        <singleTimeIfNotQualityIncreasing>5</singleTimeIfNotQualityIncreasing>
+	</ItemProcessor.CombinationDef>
+
+    <ItemProcessor.CombinationDef>
+		<defName>EM_ClaysIntoBricksInKilnGas</defName>
+		<building>EM_PorcelainOvenGas</building>
+		<isCategoryRecipe>false</isCategoryRecipe>
+		<items>
+			<li>EM_ClayBricks_Fresh</li>
+        </items>	
+		<amount>
+			<li>150</li>
+		</amount>
+		<result>EM_ClayBricks_Dry</result>	
+		<yield>150</yield>
+		<useQualityIncreasing>false</useQualityIncreasing>
+        <singleTimeIfNotQualityIncreasing>1</singleTimeIfNotQualityIncreasing>
+	</ItemProcessor.CombinationDef>
+
+
+</Defs>

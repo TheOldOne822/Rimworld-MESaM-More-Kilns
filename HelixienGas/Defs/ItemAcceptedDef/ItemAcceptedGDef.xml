@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<!-- Kiln -->
+
+	<ItemProcessor.ItemAcceptedDef>
+		<defName>EM_PorcelainOvenGasFirstItem</defName>
+		<building>EM_PorcelainOvenGas</building>
+		<slot>1</slot>
+		<items>			
+			<li>EM_Clay</li>			
+			<li>EM_ClayBricks_Fresh</li>			
+		</items>							
+	</ItemProcessor.ItemAcceptedDef>
+
+</Defs>
