@@ -73,8 +73,8 @@
         <commandDescKey>VHGE_CommandToggleGas_Desc</commandDescKey>
       </li>
       <li Class="ItemProcessor.CompProperties_ItemProcessor">
-        <buildingOnGraphic>Things/Building/EM_PorcelainOven</buildingOnGraphic>
-        <buildingFinishedGraphic>Things/Building/EM_PorcelainOven</buildingFinishedGraphic>
+        <buildingOnGraphic>Things/Building/EM_PorcelainOvenGas</buildingOnGraphic>
+        <buildingFinishedGraphic>Things/Building/EM_PorcelainOvenGas</buildingFinishedGraphic>
 
         <numberOfInputs>1</numberOfInputs>
         <qualitySelector>false</qualitySelector>
