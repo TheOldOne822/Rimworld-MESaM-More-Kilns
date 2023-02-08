@@ -70,8 +70,8 @@
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="ItemProcessor.CompProperties_ItemProcessor">
-        <buildingOnGraphic>Things/Building/EM_PorcelainOven</buildingOnGraphic>
-        <buildingFinishedGraphic>Things/Building/EM_PorcelainOven</buildingFinishedGraphic>
+        <buildingOnGraphic>Things/Building/EM_PorcelainOvenEl</buildingOnGraphic>
+        <buildingFinishedGraphic>Things/Building/EM_PorcelainOvenEl</buildingFinishedGraphic>
 
         <numberOfInputs>1</numberOfInputs>
         <qualitySelector>false</qualitySelector>
@@ -182,8 +182,8 @@
         <!-- <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed> -->
       </li>
       <li Class="ItemProcessor.CompProperties_ItemProcessor">
-        <buildingOnGraphic>Things/Building/EM_PorcelainOven</buildingOnGraphic>
-        <buildingFinishedGraphic>Things/Building/EM_PorcelainOven</buildingFinishedGraphic>
+        <buildingOnGraphic>Things/Building/EM_PorcelainOvenChem</buildingOnGraphic>
+        <buildingFinishedGraphic>Things/Building/EM_PorcelainOvenChem</buildingFinishedGraphic>
 
         <numberOfInputs>1</numberOfInputs>
         <qualitySelector>false</qualitySelector>
